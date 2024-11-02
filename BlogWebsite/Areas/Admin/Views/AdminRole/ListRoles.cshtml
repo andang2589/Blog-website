@@ -1,0 +1,81 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model IEnumerable<BlogWebsite.DTO.Role.RoleDto>
+
+@{
+    ViewBag.Title = "All Roles";
+    Layout = "_Layout";
+}
+@*<link href="/css/bundle.css" rel="stylesheet" />*@
+<div>
+    <h1>All Roles</h1>
+
+    @if (Model.Any())
+    {
+        <a id="create-role-btn" class="btn btn-primary mb-3" style="width:auto">Add New Role</a>
+
+        foreach (var role in Model)
+        {
+            <div class="card mb-3">
+                <div class="card-header">
+                    Role Id : @role.Id
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">@role.Name</h5>
+                </div>
+                <div class="card-footer">
+                    <form asp-action="DeleteRole" asp-route-id="@role.Id" method="post">
+                        <a href="#" class="to-permission-page btn btn-success" data-roleid="@role.Id">Permission</a>
+                        <a href="#" class="to-edit-page btn btn-primary" data-id="@role.Id">Edit</a>
+                        <span id="confirmDeleteSpan_@role.Id" style="display:none">
+                            <span>Are you sure you want to Delete?</span>
+                            <button type="submit" class="btn btn-danger">Yes</button>
+                            <a href="#" class="btn btn-primary"
+                               onclick="AdminRoleModule.confirmDelete('@role.Id', false)">No</a>
+                        </span>
+
+                        <span id="deleteSpan_@role.Id">
+                            <a href="#" class="btn btn-danger"
+                               onclick="AdminRoleModule.confirmDelete('@role.Id', true)">Delete</a>
+                        </span>
+
+                    </form>
+                    
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <div class="card">
+            <div class="card-header">
+                No roles created yet
+            </div>
+            <div class="card-body">
+                <h5 class="card-title">
+                    Use the button below to create a role
+                </h5>
+                <a class="btn btn-primary" style="width:auto">
+                    Create Role
+                </a>
+            </div>
+        </div>
+    }
+</div>
+
+
+@section Scripts{ 
+    @*<script src="/js/bundle.js"></script>*@
+    <script type="text/javascript">
+        $(document).ready(function () {
+            AdminRoleModule.CreateRoleBtn();
+            AdminRoleModule.ToEditPage();
+            AdminRoleModule.confirmDelete();
+            AdminRoleModule.ToPermissionPage();
+        })
+    </script>
+}

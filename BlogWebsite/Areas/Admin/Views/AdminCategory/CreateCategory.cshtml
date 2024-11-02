@@ -1,0 +1,37 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_Layout";
+}
+@model BlogWebsite.DTO.Category.CategoryDto
+<div class="container">
+    <div>
+        <div class="return-cates-index btn text-primary">return to list</div>
+    </div>
+    <h3> Create Category </h3>
+
+    <form action="CreateCategory" method="post">
+
+        <div>
+            <label for="CategoryName">Category Name</label>
+            <input asp-for="CategoryName" class="form-control" type="text" name="CategoryName" value="" placeholder="Travel, Mountain, Beach..." />
+            <span asp-validation-for="CategoryName"></span>
+        </div>
+
+        <div>
+            <input type="submit" class="btn btn-success mt-5" name="name" value="Create" />
+        </div>
+    </form>
+
+</div>
+
+@section Scripts{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            AdminCategoryModule.ReturnCateIndex();
+
+        })
+    </script>
+}
+

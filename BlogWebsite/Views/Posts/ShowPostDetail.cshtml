@@ -1,0 +1,60 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@*@model BlogWebsite.DTO.Blog.BlogPostDTO*@
+@using BlogWebsite.Data.Models
+@model (IEnumerable<Comment>, BlogWebsite.DTO.Blog.BlogPostDTO)
+
+<link rel="stylesheet" href="~/css/bundle.css">
+
+<div>
+    <div class="">        
+        <h2>@Model.Item2.Title</h2>
+    </div>
+    @*<div>
+        @Model.Item2.CreateDate
+    </div>*@
+    <div>
+        @Html.Raw(Model.Item2.Content)
+    </div>
+</div>
+
+<!--Comment Section-->
+
+<div class="row mt-2">
+    <div class="col-12">
+        <div class="card border-primary">
+            <div class="card-body">
+                <h5 class="card-title">Commenting System</h5>
+                <partial name="_CreateComment" model="@Model.Item2" />
+            </div>
+        </div>
+    </div>
+
+    @if (Model.Item1.Any())
+    {
+        <div class="row mt-2">
+            <div class="border border-primary rounded p-2">
+                <partial name="_CommentPartialView" model="Model.Item1" />
+            </div>
+
+        </div>
+    }
+
+
+    <div>
+        <partial name="_CreateReplyModal" model="default" />
+    </div>
+</div>
+<script src="~/js/bundle.js"></script>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/js/Posts/Posts.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        PostModule.passCommentPostId();
+    })
+</script>
+

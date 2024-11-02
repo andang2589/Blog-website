@@ -1,0 +1,45 @@
+﻿body {
+}
+
+
+
+/*INDEX VIEW*/
+#create-user-btn {
+    width: 6rem;
+    background-color: #ff5500;
+    margin-bottom: 1rem;
+    font-size:1.2rem;
+    color:white;
+    padding:0.2rem;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+#create-user-btn:hover {
+    background-color: orange;
+    cursor: pointer;
+}
+
+
+
+
+/*CREATE VIEW*/
+.return-btn-class {
+    background-color: #ff5500;
+    color: white;
+    /*border: black solid thin;*/
+    width: 12rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0 2rem 0;
+}
+#return-btn {
+    color: white;
+    margin:0.4rem;
+}
+.return-btn-class:hover {
+    background-color: orange;
+    cursor:pointer;
+}

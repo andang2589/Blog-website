@@ -1,0 +1,168 @@
+﻿.my_modal{
+    position:fixed;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+
+    display:flex
+}
+
+header {
+    background-color: orange;
+    height: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    margin:0px 0px 0px 0px ;
+    
+    color:white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.auth-form{
+    width:500px;
+}
+
+.my_modal__overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.4);
+}
+
+.my_model__body{
+    
+    background-color: white;
+    margin:auto;
+    position:relative;
+    z-index:1;
+    border-radius:5px;
+}
+
+.auth-form--container{
+    padding: 0 32px;
+}
+
+.auth-form-header {
+    display:flex;
+    align-items:center;
+    justify-content:space-between
+}
+
+.auth-form-heading{
+    font-size:1rem;
+    font-weight:600;
+    font-family:Arial;
+    font-size:2rem;
+}
+
+.auth-form__signBtn {
+    font-size:1rem;
+    font-family:Arial;
+    font-weight:600;
+    color:dodgerblue;
+    cursor:pointer;
+}
+
+.auth-form__form{
+    
+}
+
+.auth-form__input {
+    width: 100%;
+    height: 40px;
+    margin-top: 16px;
+    padding: 0 12px;
+    font-size:1rem;
+    border: 2px solid #dbdbdb;
+    border-radius:2px;
+    outline: none;
+   
+}
+
+.auth-form__input:focus{
+    border-color:#888;
+}
+
+.auth-form__control{
+    margin-top:70px;
+    display:flex;
+    align-items:center;
+    justify-content:flex-end;
+}
+
+.auth-form__btn {
+    min-width: 142px;
+    height: 36px;
+    border: none;
+    cursor:pointer;
+    color:dimgray;
+}
+
+.auth-form__btn:hover {
+    background-color: #ff5500;
+    color: white;
+}
+
+.auth-form-btn-primary {
+    min-width: 142px;
+    height: 36px;
+    margin-left: 8px;
+    background-color:#ff5500;
+    border: none;
+    cursor: pointer;
+    color:white;
+}
+
+.auth-form-btn-primary:hover{
+    background-color: rgba(255,85,0,0.9);
+}
+
+
+.socials-box {
+    background-color: #f5f5f5;
+    padding: 16px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.socials{
+    
+}
+
+.btn-with-icon-fb {
+    
+    height: 50px;
+    text-decoration: none;
+    background-color: #3A5A98;
+    font-size: 1rem;
+    color: white;
+    font-family: Arial;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.btn-with-icon-gg {
+    height: 35px;
+    text-decoration: none;
+    background-color: white;
+    font-size: 1rem;
+    color: black;
+    font-family: Arial;
+    padding: 5px;
+    border-radius:3px;
+}
+
+.social-btn-text{
+    margin:0 5px 0 15px;
+    
+}
+
+.auth-form-checkbox{
+    margin-top:8px;
+}
+

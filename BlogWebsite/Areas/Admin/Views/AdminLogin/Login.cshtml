@@ -1,0 +1,97 @@
+﻿@model BlogWebsite.DTO.User.LoginRequest
+@{
+    Layout = null;
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@*<link href="/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />*@
+<link href="/css/Admin/AdminLogin/Login.css" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<div>
+
+    <header><h1> Đăng nhập hệ thống</h1></header>
+    <div class="my_modal">
+        <div class="my_modal__overlay">
+
+        </div>
+        <div class="my_model__body">
+
+            <!--Authen form -->
+
+            <form action="/Admin/AdminLogin/Login" method="post" class="auth-form">
+
+                <div class="auth-form--container">
+                    <div class="auth-form-header">
+                        <h3 class="auth-form-heading"> Đăng Nhập</h3>
+                        <span class="auth-form__signBtn">Đăng Ký</span>
+
+                    </div>
+
+                    <div class="auth-form__form">
+                        @*<input type="hidden" name="ReturnUrl" value="@ViewData["ReturnUrl"]" />*@
+                        <div class="auth-form__group">
+                            <input asp-for="UserName" class="auth-form__input" type="text" name="UserName" value="" placeholder="UserName" />
+                            <span asp-validation-for="UserName" class="text-danger" style="color:red"></span>
+                        </div>
+
+                        <div class="auth-form__group">
+                            <input asp-for="Password" class="auth-form__input" type="password" name="Password" value="" placeholder="Mật khẩu" />
+                            <span asp-validation-for="Password" class="text-danger" style="color:red"></span>
+                        </div>
+
+                        <div class="auth-form-checkbox">
+                            <label>
+                                <input type="checkbox" name="RememberMe" value="" />
+                                Ghi  nhớ tôi
+                            </label>
+
+                        </div>
+
+                        <div class="auth-form__control">
+                            <button class="auth-form__btn">TRỞ LẠI</button>
+                            <button class="auth-form-btn-primary" type="submit">ĐĂNG NHẬP</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="socials-box">
+                    <div class="socials">
+
+                        <a href="#" class="btn-with-icon-fb">
+                            <i class="fa-brands fa-square-facebook" style="color: white;"></i>
+                            <span class="social-btn-text">Kết nối với Facebook</span>
+
+                        </a>
+                    </div>
+
+                    <div class="socials">
+
+                        <a href="#" class="btn-with-icon-gg">
+                            <i class="fa-brands fa-google" style="color: #74C0FC;"></i>
+                            <span class="social-btn-text">Kết nối với Google</span>
+
+                        </a>
+                    </div>
+                </div>
+
+
+            </form>
+        </div>
+    </div>
+</div>
+@*<script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/js/Admin/AdminLogin/Login.js"></script>*@
+
+<script src="~/js/bundle.js"></script>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+<script src="~/js/Admin/AdminLogin/Login.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        LoginModule.SignUpRedirectBtn();
+
+    })
+
+</script>

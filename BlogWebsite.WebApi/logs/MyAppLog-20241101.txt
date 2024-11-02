@@ -1,0 +1,875 @@
+2024-11-01 15:24:22.538 +07:00 [INF] Executed DbCommand (65ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:22.615 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:22.622 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:22.678 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:22.686 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:22.693 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:22.699 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:22.704 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:22.709 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:22.714 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:22.719 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:22.724 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:22.729 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:22.734 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:22.739 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:22.746 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:22.750 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:22.756 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:22.762 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:22.768 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:22.774 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:22.780 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:23.097 +07:00 [INF] Executed DbCommand (40ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Permissions] ([Action], [Controller], [Name])
+OUTPUT INSERTED.[PermissionId]
+VALUES (@p0, @p1, @p2);
+2024-11-01 15:24:23.188 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:23.195 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:23.201 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:23.206 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:23.212 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:23.217 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:23.223 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:23.230 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:23.237 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:24:23.452 +07:00 [INF] User profile is available. Using 'C:\Users\Admin\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-11-01 15:24:23.617 +07:00 [INF] Now listening on: https://localhost:7297
+2024-11-01 15:24:23.619 +07:00 [INF] Now listening on: http://localhost:5271
+2024-11-01 15:24:23.623 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-01 15:24:23.626 +07:00 [INF] Hosting environment: Development
+2024-11-01 15:24:23.628 +07:00 [INF] Content root path: C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.WebApi
+2024-11-01 15:24:23.800 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7297/api/Blog/GetPostsList - -
+2024-11-01 15:24:28.487 +07:00 [INF] Executing endpoint 'BlogWebsite.WebApi.Controllers.BlogController.GetPostsList (BlogWebsite.WebApi)'
+2024-11-01 15:24:28.504 +07:00 [INF] Route matched with {action = "GetPostsList", controller = "Blog"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPostsList() on controller BlogWebsite.WebApi.Controllers.BlogController (BlogWebsite.WebApi).
+2024-11-01 15:24:28.758 +07:00 [INF] Executed DbCommand (18ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [b].[BlogPostID], [b].[Content], [b].[CreateDate], [b].[Description], [b].[ThumbnailUrl], [b].[Title], [t].[CategoriesCategoryID], [t].[PostsBlogPostID], [t].[CategoryID], [t].[CategoryName]
+FROM [BlogPosts] AS [b]
+LEFT JOIN (
+    SELECT [b0].[CategoriesCategoryID], [b0].[PostsBlogPostID], [c].[CategoryID], [c].[CategoryName]
+    FROM [BlogPostCategory] AS [b0]
+    INNER JOIN [Categories] AS [c] ON [b0].[CategoriesCategoryID] = [c].[CategoryID]
+) AS [t] ON [b].[BlogPostID] = [t].[PostsBlogPostID]
+ORDER BY [b].[BlogPostID], [t].[CategoriesCategoryID], [t].[PostsBlogPostID]
+2024-11-01 15:24:29.113 +07:00 [INF] Executing OkObjectResult, writing value of type 'BlogWebsite.DTO.Common.ClassResult`1[[System.Collections.Generic.List`1[[BlogWebsite.DTO.Blog.BlogPostDTO, BlogWebsite.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-11-01 15:24:29.397 +07:00 [INF] Executed action BlogWebsite.WebApi.Controllers.BlogController.GetPostsList (BlogWebsite.WebApi) in 883.6109ms
+2024-11-01 15:24:29.401 +07:00 [INF] Executed endpoint 'BlogWebsite.WebApi.Controllers.BlogController.GetPostsList (BlogWebsite.WebApi)'
+2024-11-01 15:24:29.414 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7297/api/Blog/GetPostsList - - - 200 5669936 application/json;+charset=utf-8 5616.5298ms
+2024-11-01 15:24:34.139 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7297/uploads/snowmountainS.jpg - -
+2024-11-01 15:24:34.139 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7297/uploads/thumnail15.jfif - -
+2024-11-01 15:24:34.139 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7297/uploads/th3.jpg - -
+2024-11-01 15:24:34.139 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7297/uploads/casttleS.jpg - -
+2024-11-01 15:24:34.139 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7297/uploads/boatS.jpg - -
+2024-11-01 15:24:34.139 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7297/uploads/snowbridgeS.jpg - -
+2024-11-01 15:24:34.139 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7297/uploads/volcano.jpg - -
+2024-11-01 15:24:41.855 +07:00 [INF] Sending file. Request path: '/uploads/casttleS.jpg'. Physical path: 'C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.WebApi\wwwroot\uploads\casttleS.jpg'
+2024-11-01 15:24:41.855 +07:00 [INF] Sending file. Request path: '/uploads/snowmountainS.jpg'. Physical path: 'C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.WebApi\wwwroot\uploads\snowmountainS.jpg'
+2024-11-01 15:24:41.855 +07:00 [INF] Sending file. Request path: '/uploads/volcano.jpg'. Physical path: 'C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.WebApi\wwwroot\uploads\volcano.jpg'
+2024-11-01 15:24:41.855 +07:00 [INF] Sending file. Request path: '/uploads/snowbridgeS.jpg'. Physical path: 'C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.WebApi\wwwroot\uploads\snowbridgeS.jpg'
+2024-11-01 15:24:41.855 +07:00 [INF] Sending file. Request path: '/uploads/thumnail15.jfif'. Physical path: 'C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.WebApi\wwwroot\uploads\thumnail15.jfif'
+2024-11-01 15:24:41.855 +07:00 [INF] Sending file. Request path: '/uploads/boatS.jpg'. Physical path: 'C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.WebApi\wwwroot\uploads\boatS.jpg'
+2024-11-01 15:24:41.860 +07:00 [INF] Sending file. Request path: '/uploads/th3.jpg'. Physical path: 'C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.WebApi\wwwroot\uploads\th3.jpg'
+2024-11-01 15:24:41.862 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7297/uploads/casttleS.jpg - - - 200 8009 image/jpeg 7723.0439ms
+2024-11-01 15:24:41.870 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7297/uploads/snowmountainS.jpg - - - 200 13348 image/jpeg 7732.6459ms
+2024-11-01 15:24:41.874 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7297/uploads/volcano.jpg - - - 200 71007 image/jpeg 7734.9137ms
+2024-11-01 15:24:41.876 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7297/uploads/snowbridgeS.jpg - - - 200 17904 image/jpeg 7738.4896ms
+2024-11-01 15:24:41.879 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7297/uploads/thumnail15.jfif - - - 200 4621 image/pjpeg 7739.6133ms
+2024-11-01 15:24:41.880 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7297/uploads/boatS.jpg - - - 200 18764 image/jpeg 7741.3342ms
+2024-11-01 15:24:41.883 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7297/uploads/th3.jpg - - - 200 244688 image/jpeg 7744.3872ms
+2024-11-01 15:29:27.637 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7297/api/user/paging?pageIndex=1&pageSize=10&keyword= - -
+2024-11-01 15:29:32.245 +07:00 [INF] Executing endpoint 'BlogWebsite.WebApi.Controllers.UserController.GetAllPaging (BlogWebsite.WebApi)'
+2024-11-01 15:29:32.263 +07:00 [INF] Route matched with {action = "GetAllPaging", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllPaging(BlogWebsite.DTO.User.GetUserAndPagingRequest) on controller BlogWebsite.WebApi.Controllers.UserController (BlogWebsite.WebApi).
+2024-11-01 15:29:32.343 +07:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [AspNetUsers] AS [a]
+2024-11-01 15:29:32.368 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-11-01 15:29:32.372 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-11-01 15:29:32.388 +07:00 [INF] Executed DbCommand (4ms) [Parameters=[@__p_0='?' (DbType = Int32), @__p_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Email], [a].[PhoneNumber], [a].[UserName], [a].[FirstName], [a].[Id], [a].[LastName], [a].[DoB] AS [Dob]
+FROM [AspNetUsers] AS [a]
+ORDER BY (SELECT 1)
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY
+2024-11-01 15:29:32.406 +07:00 [INF] Executing OkObjectResult, writing value of type 'BlogWebsite.DTO.Common.PagedResult`1[[BlogWebsite.DTO.User.UserDTO, BlogWebsite.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-11-01 15:29:32.419 +07:00 [INF] Executed action BlogWebsite.WebApi.Controllers.UserController.GetAllPaging (BlogWebsite.WebApi) in 151.8442ms
+2024-11-01 15:29:32.424 +07:00 [INF] Executed endpoint 'BlogWebsite.WebApi.Controllers.UserController.GetAllPaging (BlogWebsite.WebApi)'
+2024-11-01 15:29:32.436 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7297/api/user/paging?pageIndex=1&pageSize=10&keyword= - - - 200 673 application/json;+charset=utf-8 4798.5667ms
+2024-11-01 15:29:59.118 +07:00 [INF] Executed DbCommand (35ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.192 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.198 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.213 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.224 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.234 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.250 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.269 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.280 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.300 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.323 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.358 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.397 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.426 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.461 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.478 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.496 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.525 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.544 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.562 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.577 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.593 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.621 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.639 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.663 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.701 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.720 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.736 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.761 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.781 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.790 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:29:59.952 +07:00 [INF] User profile is available. Using 'C:\Users\Admin\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-11-01 15:30:00.116 +07:00 [INF] Now listening on: https://localhost:7297
+2024-11-01 15:30:00.119 +07:00 [INF] Now listening on: http://localhost:5271
+2024-11-01 15:30:00.126 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-01 15:30:00.128 +07:00 [INF] Hosting environment: Development
+2024-11-01 15:30:00.130 +07:00 [INF] Content root path: C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.WebApi
+2024-11-01 15:30:00.514 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7297/api/Blog/GetPostsList - -
+2024-11-01 15:30:00.746 +07:00 [INF] Executing endpoint 'BlogWebsite.WebApi.Controllers.BlogController.GetPostsList (BlogWebsite.WebApi)'
+2024-11-01 15:30:00.766 +07:00 [INF] Route matched with {action = "GetPostsList", controller = "Blog"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPostsList() on controller BlogWebsite.WebApi.Controllers.BlogController (BlogWebsite.WebApi).
+2024-11-01 15:30:01.044 +07:00 [INF] Executed DbCommand (23ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [b].[BlogPostID], [b].[Content], [b].[CreateDate], [b].[Description], [b].[ThumbnailUrl], [b].[Title], [t].[CategoriesCategoryID], [t].[PostsBlogPostID], [t].[CategoryID], [t].[CategoryName]
+FROM [BlogPosts] AS [b]
+LEFT JOIN (
+    SELECT [b0].[CategoriesCategoryID], [b0].[PostsBlogPostID], [c].[CategoryID], [c].[CategoryName]
+    FROM [BlogPostCategory] AS [b0]
+    INNER JOIN [Categories] AS [c] ON [b0].[CategoriesCategoryID] = [c].[CategoryID]
+) AS [t] ON [b].[BlogPostID] = [t].[PostsBlogPostID]
+ORDER BY [b].[BlogPostID], [t].[CategoriesCategoryID], [t].[PostsBlogPostID]
+2024-11-01 15:30:01.458 +07:00 [INF] Executing OkObjectResult, writing value of type 'BlogWebsite.DTO.Common.ClassResult`1[[System.Collections.Generic.List`1[[BlogWebsite.DTO.Blog.BlogPostDTO, BlogWebsite.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-11-01 15:30:01.747 +07:00 [INF] Executed action BlogWebsite.WebApi.Controllers.BlogController.GetPostsList (BlogWebsite.WebApi) in 957.7099ms
+2024-11-01 15:30:01.751 +07:00 [INF] Executed endpoint 'BlogWebsite.WebApi.Controllers.BlogController.GetPostsList (BlogWebsite.WebApi)'
+2024-11-01 15:30:01.765 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7297/api/Blog/GetPostsList - - - 200 5669936 application/json;+charset=utf-8 1252.5068ms
+2024-11-01 15:33:17.133 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7297/User/LogAllLevels - -
+2024-11-01 15:33:17.169 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7297/User/LogAllLevels - - - 404 0 - 36.0968ms
+2024-11-01 15:33:42.942 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7297/User/all-logs - -
+2024-11-01 15:33:42.966 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7297/User/all-logs - - - 404 0 - 23.1438ms
+2024-11-01 15:33:54.285 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7297/api/User/all-logs - -
+2024-11-01 15:33:54.299 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7297/api/User/all-logs - - - 401 - - 14.6385ms
+2024-11-01 15:33:54.354 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7297/favicon.ico - -
+2024-11-01 15:33:54.368 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7297/favicon.ico - - - 404 0 - 14.3801ms
+2024-11-01 15:34:25.694 +07:00 [INF] Executed DbCommand (36ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:25.764 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:25.770 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:25.780 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:25.792 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:25.810 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:25.827 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:25.841 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:25.858 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:25.873 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:25.889 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:25.905 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:25.920 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:25.951 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:25.974 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:25.982 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:26.000 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:26.008 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:26.026 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:26.041 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:26.058 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:26.079 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:26.094 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:26.112 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:26.134 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:26.154 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:26.176 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:26.197 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:26.217 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:26.225 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:26.233 +07:00 [INF] Executed DbCommand (0ms) [Parameters=[@__controllerName_0='?' (Size = 4000), @__actionName_1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Permissions] AS [p]
+        WHERE [p].[Controller] = @__controllerName_0 AND [p].[Action] = @__actionName_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-11-01 15:34:26.399 +07:00 [INF] User profile is available. Using 'C:\Users\Admin\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-11-01 15:34:26.551 +07:00 [INF] Now listening on: https://localhost:7297
+2024-11-01 15:34:26.555 +07:00 [INF] Now listening on: http://localhost:5271
+2024-11-01 15:34:26.559 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-01 15:34:26.561 +07:00 [INF] Hosting environment: Development
+2024-11-01 15:34:26.564 +07:00 [INF] Content root path: C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.WebApi
+2024-11-01 15:34:26.701 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7297/api/Blog/GetPostsList - -
+2024-11-01 15:34:27.019 +07:00 [INF] Executing endpoint 'BlogWebsite.WebApi.Controllers.BlogController.GetPostsList (BlogWebsite.WebApi)'
+2024-11-01 15:34:27.036 +07:00 [INF] Route matched with {action = "GetPostsList", controller = "Blog"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPostsList() on controller BlogWebsite.WebApi.Controllers.BlogController (BlogWebsite.WebApi).
+2024-11-01 15:34:27.341 +07:00 [INF] Executed DbCommand (19ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [b].[BlogPostID], [b].[Content], [b].[CreateDate], [b].[Description], [b].[ThumbnailUrl], [b].[Title], [t].[CategoriesCategoryID], [t].[PostsBlogPostID], [t].[CategoryID], [t].[CategoryName]
+FROM [BlogPosts] AS [b]
+LEFT JOIN (
+    SELECT [b0].[CategoriesCategoryID], [b0].[PostsBlogPostID], [c].[CategoryID], [c].[CategoryName]
+    FROM [BlogPostCategory] AS [b0]
+    INNER JOIN [Categories] AS [c] ON [b0].[CategoriesCategoryID] = [c].[CategoryID]
+) AS [t] ON [b].[BlogPostID] = [t].[PostsBlogPostID]
+ORDER BY [b].[BlogPostID], [t].[CategoriesCategoryID], [t].[PostsBlogPostID]
+2024-11-01 15:34:27.738 +07:00 [INF] Executing OkObjectResult, writing value of type 'BlogWebsite.DTO.Common.ClassResult`1[[System.Collections.Generic.List`1[[BlogWebsite.DTO.Blog.BlogPostDTO, BlogWebsite.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-11-01 15:34:28.011 +07:00 [INF] Executed action BlogWebsite.WebApi.Controllers.BlogController.GetPostsList (BlogWebsite.WebApi) in 951.6957ms
+2024-11-01 15:34:28.015 +07:00 [INF] Executed endpoint 'BlogWebsite.WebApi.Controllers.BlogController.GetPostsList (BlogWebsite.WebApi)'
+2024-11-01 15:34:28.029 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7297/api/Blog/GetPostsList - - - 200 5669936 application/json;+charset=utf-8 1329.9016ms
+2024-11-01 15:34:39.240 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7297/api/User/all-logs - -
+2024-11-01 15:34:39.274 +07:00 [INF] Executing endpoint 'BlogWebsite.WebApi.Controllers.UserController.LogAllLevels (BlogWebsite.WebApi)'
+2024-11-01 15:34:39.282 +07:00 [INF] Route matched with {action = "LogAllLevels", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult LogAllLevels() on controller BlogWebsite.WebApi.Controllers.UserController (BlogWebsite.WebApi).
+2024-11-01 15:34:42.439 +07:00 [INF] LogInformation: The LogAllLevels endpoint was reached successfully.
+2024-11-01 15:34:42.444 +07:00 [WRN] LogWarning: Resource usage is nearing the limit. Action may be required soon.
+2024-11-01 15:34:42.484 +07:00 [ERR] LogError: An error occurred while processing the request.
+System.DivideByZeroException: Attempted to divide by zero.
+   at BlogWebsite.WebApi.Controllers.UserController.LogAllLevels() in C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.WebApi\Controllers\UserController.cs:line 60
+2024-11-01 15:34:42.533 +07:00 [FTL] LogCritical: A critical system failure has been detected. Immediate attention is required.
+2024-11-01 15:34:42.549 +07:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-11-01 15:34:42.570 +07:00 [INF] Executed action BlogWebsite.WebApi.Controllers.UserController.LogAllLevels (BlogWebsite.WebApi) in 3280.4646ms
+2024-11-01 15:34:42.574 +07:00 [INF] Executed endpoint 'BlogWebsite.WebApi.Controllers.UserController.LogAllLevels (BlogWebsite.WebApi)'
+2024-11-01 15:34:42.588 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7297/api/User/all-logs - - - 200 - text/plain;+charset=utf-8 3348.3264ms

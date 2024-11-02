@@ -1,0 +1,51 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model BlogWebsite.DTO.Blog.BlogPostDTO
+
+<form action="CreateComment" method="post">
+    <div>
+        <input type="hidden" name="BlogPostID" value="@Model.BlogPostID" />
+    </div>
+    <div class="row">
+        <div class="col">
+            <div class="form-floating">
+                <input type="text" name="FullName" value="" placeholder="" class="form-control" />
+                <label for="FullName">Full Name</label>
+            </div>
+
+        </div>
+
+        <div class="col">
+            <div class="form-floating">
+                <input type="email" name="Email" value="" placeholder="Email" class="form-control" />
+                <label for="Email">Email</label>
+            </div>
+
+        </div>
+
+
+
+    </div>
+    <div class="row mt-2 mb-2">
+        <div class="col">
+            <div class="form-floating">
+                <textarea class="form-control" name="Content" placeholder=""></textarea>
+                <label for="Content">Leave a comment here</label>
+            </div>
+        </div>
+
+
+    </div>
+
+
+    <div class="row">
+        <div class="col">
+            <input type="submit" name="name" value="submit" class="btn btn-success" />
+        </div>
+       
+    </div>
+</form>

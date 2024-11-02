@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite.WebApi\\wwwroot\\uploads\\boatS.jpg",
+      "PackagePath": "staticwebassets\\uploads\\boatS.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite.WebApi\\wwwroot\\uploads\\casttleS.jpg",
+      "PackagePath": "staticwebassets\\uploads\\casttleS.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite.WebApi\\wwwroot\\uploads\\snowbridgeS.jpg",
+      "PackagePath": "staticwebassets\\uploads\\snowbridgeS.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite.WebApi\\wwwroot\\uploads\\snowmountainS.jpg",
+      "PackagePath": "staticwebassets\\uploads\\snowmountainS.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite.WebApi\\wwwroot\\uploads\\th (14).jfif",
+      "PackagePath": "staticwebassets\\uploads\\th (14).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite.WebApi\\wwwroot\\uploads\\th (6).jfif",
+      "PackagePath": "staticwebassets\\uploads\\th (6).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite.WebApi\\wwwroot\\uploads\\th (8).jfif",
+      "PackagePath": "staticwebassets\\uploads\\th (8).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite.WebApi\\wwwroot\\uploads\\th (9).jfif",
+      "PackagePath": "staticwebassets\\uploads\\th (9).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite.WebApi\\wwwroot\\uploads\\th.jfif",
+      "PackagePath": "staticwebassets\\uploads\\th.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite.WebApi\\wwwroot\\uploads\\th3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\th3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite.WebApi\\wwwroot\\uploads\\th5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\th5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite.WebApi\\wwwroot\\uploads\\thumnail15.jfif",
+      "PackagePath": "staticwebassets\\uploads\\thumnail15.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite.WebApi\\wwwroot\\uploads\\volcano.jpg",
+      "PackagePath": "staticwebassets\\uploads\\volcano.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlogWebsite.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BlogWebsite.WebApi.props",
+      "PackagePath": "build\\BlogWebsite.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BlogWebsite.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\BlogWebsite.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BlogWebsite.WebApi.props",
+      "PackagePath": "buildTransitive\\BlogWebsite.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

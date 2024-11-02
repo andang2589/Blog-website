@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Utilities\bin\Debug\net7.0\BlogWebsite.Utilities.deps.json
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Utilities\bin\Debug\net7.0\BlogWebsite.Utilities.dll
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Utilities\bin\Debug\net7.0\BlogWebsite.Utilities.pdb
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Utilities\obj\Debug\net7.0\BlogWebsite.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Utilities\obj\Debug\net7.0\BlogWebsite.Utilities.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Utilities\obj\Debug\net7.0\BlogWebsite.Utilities.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Utilities\obj\Debug\net7.0\BlogWebsite.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Utilities\obj\Debug\net7.0\BlogWebsite.Utilities.dll
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Utilities\obj\Debug\net7.0\refint\BlogWebsite.Utilities.dll
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Utilities\obj\Debug\net7.0\BlogWebsite.Utilities.pdb
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Utilities\obj\Debug\net7.0\ref\BlogWebsite.Utilities.dll
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Utilities\bin\Debug\net7.0\BlogWebsite.Data.dll
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Utilities\bin\Debug\net7.0\BlogWebsite.DTO.dll
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Utilities\bin\Debug\net7.0\BlogWebsite.Data.pdb
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Utilities\bin\Debug\net7.0\BlogWebsite.DTO.pdb
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Utilities\obj\Debug\net7.0\BlogWebsite.Utilities.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Utilities\obj\Debug\net7.0\BlogWebsite.Utilities.csproj.CopyComplete

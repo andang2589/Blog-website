@@ -1,0 +1,89 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_Layout";
+}
+@*@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers*@
+@model IEnumerable<BlogWebsite.DTO.Blog.BlogPostDTO>
+
+<div class="container">
+    <div id="successAlert" class="alert alert-success alert-dismissible fade show" role="alert" style="display: none;">
+        Bạn đã xóa thành công!
+        <button type="button" class="btn btn-close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">@*&times;*@</span>
+        </button>
+    </div>
+    <div>
+        <button id="create-post-btn" class="btn btn-dark mb-4">Create Post</button>
+    </div>
+    <table class="table" id="pagination-example">
+        <thead>
+            <tr>
+                <th>Title</th>
+
+                <th>Categories</th>
+
+                <th></th>
+
+            </tr>
+        </thead>
+        
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr class="row-@item.BlogPostID">
+                    <td>@Html.DisplayFor(m => item.Title)</td>
+
+                    @*<td>@Html.DisplayFor(m => item.AllCategories)</td>*@
+
+                    <td>
+                        @foreach (var category in item.Categories)
+                        {
+                            <ul>
+                                <li>@category.CategoryName</li>
+                            </ul>
+
+                        }
+                    </td>
+                    <td>
+                        <button id="edit-btn" class="btn btn-warning edit-btn" data-id="@item.BlogPostID">Sửa</button>
+                        <button class="delete-post-btn btn btn-danger" data-title="@item.Title" data-id="@item.BlogPostID" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Xóa</button>
+                    </td>
+
+
+
+                </tr>
+            }
+        </tbody>
+        
+    </table>
+
+
+
+</div>
+<partial name="_PostDeleteConfirm" />
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<link href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" rel="stylesheet" />
+
+<script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+<script src="~/js/bundle.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        AdminBlogModule.EditBtn();
+        AdminBlogModule.CreatePostBtn();
+        AdminBlogModule.PassDataId();
+        AdminBlogModule.DeletePostBtn();
+    })
+</script>
+
+<script type="text/javascript">
+    /*var js = jQuery.noConflict(true);*/
+    $(document).ready(function () {
+        $.noConflict(true);
+        $('#pagination-example').DataTable({
+
+        });
+    })
+</script>

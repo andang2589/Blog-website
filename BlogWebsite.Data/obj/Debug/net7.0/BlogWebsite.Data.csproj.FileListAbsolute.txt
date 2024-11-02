@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Data\bin\Debug\net7.0\BlogWebsite.Data.deps.json
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Data\bin\Debug\net7.0\BlogWebsite.Data.runtimeconfig.json
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Data\bin\Debug\net7.0\BlogWebsite.Data.dll
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Data\bin\Debug\net7.0\BlogWebsite.Data.pdb
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Data\obj\Debug\net7.0\BlogWebsite.Data.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Data\obj\Debug\net7.0\BlogWebsite.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Data\obj\Debug\net7.0\BlogWebsite.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Data\obj\Debug\net7.0\BlogWebsite.Data.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Data\obj\Debug\net7.0\BlogWebsite.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Data\obj\Debug\net7.0\BlogWebsite.Data.dll
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Data\obj\Debug\net7.0\refint\BlogWebsite.Data.dll
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Data\obj\Debug\net7.0\BlogWebsite.Data.pdb
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Data\obj\Debug\net7.0\BlogWebsite.Data.genruntimeconfig.cache
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.Data\obj\Debug\net7.0\ref\BlogWebsite.Data.dll

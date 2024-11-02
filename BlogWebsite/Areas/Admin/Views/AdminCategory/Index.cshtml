@@ -1,0 +1,72 @@
+﻿
+@{
+    Layout = "_Layout";
+    var canDelete = await User.HasPermission("Category", "DeleteCategory"); 
+}
+@using BlogWebsite.Areas.Admin.Helper
+@model IEnumerable<BlogWebsite.DTO.Category.CategoryDto>
+<div class="container">
+    <div id="successAlert" class="alert alert-success alert-dismissible fade show" role="alert" style="display: none;">
+        Bạn đã xóa thành công!
+        <button type="button" class="btn btn-close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">@*&times;*@</span>
+        </button>
+    </div>
+    <div>
+        <div class="create-cate-btn btn btn-dark">Create Category</div>
+    </div>
+    <div class="row">
+        <div class="col-8">
+            <table class="table ">
+                <thead>
+                    <tr>
+                        <th scope="col">
+                            Id
+                        </th>
+
+                        <th scope="col">
+                            Name
+                        </th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @foreach (var cates in Model)
+                    {
+                        <tr class="row-@cates.CategoryID">
+                            <th scope="row">
+                                @cates.CategoryID
+                            </th>
+                            <td>
+                                @cates.CategoryName
+                            </td>
+                            <td>
+                                @if (canDelete)
+                                {
+                                    <div class="del-category-btn btn btn-danger" data-id="@cates.CategoryID">delete</div>
+
+                                }
+                            </td>
+                        </tr>
+
+                    }
+                </tbody>
+
+
+
+
+            </table>
+        </div>
+
+    </div>
+
+</div>
+@section Scripts{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            AdminCategoryModule.ToCreateCategory();
+            AdminCategoryModule.DelCategoryBtn();
+        })
+    </script>
+}
+

@@ -1,0 +1,421 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlogWebsite.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlogWebsite.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\Images\\Thumnails\\th (10).jfif",
+      "PackagePath": "staticwebassets\\Images\\Thumnails\\th (10).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\Images\\Thumnails\\th (11).jfif",
+      "PackagePath": "staticwebassets\\Images\\Thumnails\\th (11).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\Images\\Thumnails\\th (12).jfif",
+      "PackagePath": "staticwebassets\\Images\\Thumnails\\th (12).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\Images\\Thumnails\\th (13).jfif",
+      "PackagePath": "staticwebassets\\Images\\Thumnails\\th (13).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\Images\\Thumnails\\th (6).jfif",
+      "PackagePath": "staticwebassets\\Images\\Thumnails\\th (6).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\Images\\Thumnails\\th (7).jfif",
+      "PackagePath": "staticwebassets\\Images\\Thumnails\\th (7).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\Images\\Thumnails\\th (8).jfif",
+      "PackagePath": "staticwebassets\\Images\\Thumnails\\th (8).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\Images\\Thumnails\\th (9).jfif",
+      "PackagePath": "staticwebassets\\Images\\Thumnails\\th (9).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\Images\\Thumnails\\th.jfif",
+      "PackagePath": "staticwebassets\\Images\\Thumnails\\th.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\Images\\Thumnails\\th1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Thumnails\\th1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\Images\\Thumnails\\th2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Thumnails\\th2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\Images\\Thumnails\\th3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Thumnails\\th3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\Images\\Thumnails\\th4.jpg",
+      "PackagePath": "staticwebassets\\Images\\Thumnails\\th4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\Images\\Thumnails\\th5.jpg",
+      "PackagePath": "staticwebassets\\Images\\Thumnails\\th5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\css\\Admin\\AdminLayout.css",
+      "PackagePath": "staticwebassets\\css\\Admin\\AdminLayout.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\css\\Admin\\AdminLogin\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Admin\\AdminLogin\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\css\\Admin\\AdminUser\\CreateView.css",
+      "PackagePath": "staticwebassets\\css\\Admin\\AdminUser\\CreateView.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\css\\Admin\\content.css",
+      "PackagePath": "staticwebassets\\css\\Admin\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\css\\Admin\\demo.css",
+      "PackagePath": "staticwebassets\\css\\Admin\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\css\\Base.css",
+      "PackagePath": "staticwebassets\\css\\Base.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\css\\ClientLayout.css",
+      "PackagePath": "staticwebassets\\css\\ClientLayout.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\css\\Grid.css",
+      "PackagePath": "staticwebassets\\css\\Grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\css\\HomePage.css",
+      "PackagePath": "staticwebassets\\css\\HomePage.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\css\\StyleSheet1.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet1.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\css\\StyleSheet2.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet2.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\js\\Admin\\AdminBlog\\BlogIndex.js",
+      "PackagePath": "staticwebassets\\js\\Admin\\AdminBlog\\BlogIndex.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\js\\Admin\\AdminBlog\\Test.js",
+      "PackagePath": "staticwebassets\\js\\Admin\\AdminBlog\\Test.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\js\\Admin\\AdminBlog\\UpdatePost.js",
+      "PackagePath": "staticwebassets\\js\\Admin\\AdminBlog\\UpdatePost.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\js\\Admin\\AdminCategory\\CategoryIndex.js",
+      "PackagePath": "staticwebassets\\js\\Admin\\AdminCategory\\CategoryIndex.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\js\\Admin\\AdminLayout.js",
+      "PackagePath": "staticwebassets\\js\\Admin\\AdminLayout.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\js\\Admin\\AdminLogin\\Create.js",
+      "PackagePath": "staticwebassets\\js\\Admin\\AdminLogin\\Create.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\js\\Admin\\AdminLogin\\Login.js",
+      "PackagePath": "staticwebassets\\js\\Admin\\AdminLogin\\Login.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\js\\Admin\\AdminRole\\RoleIndex.js",
+      "PackagePath": "staticwebassets\\js\\Admin\\AdminRole\\RoleIndex.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\js\\Admin\\AdminUser\\UserIndex.js",
+      "PackagePath": "staticwebassets\\js\\Admin\\AdminUser\\UserIndex.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\js\\Admin\\index.js",
+      "PackagePath": "staticwebassets\\js\\Admin\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\js\\HomePage.js",
+      "PackagePath": "staticwebassets\\js\\HomePage.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\js\\JavaScript1.js",
+      "PackagePath": "staticwebassets\\js\\JavaScript1.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\js\\JavaScript2.js",
+      "PackagePath": "staticwebassets\\js\\JavaScript2.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\js\\Posts\\Posts.js",
+      "PackagePath": "staticwebassets\\js\\Posts\\Posts.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BlogWebsite\\BlogWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlogWebsite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BlogWebsite.props",
+      "PackagePath": "build\\BlogWebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BlogWebsite.props",
+      "PackagePath": "buildMultiTargeting\\BlogWebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BlogWebsite.props",
+      "PackagePath": "buildTransitive\\BlogWebsite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

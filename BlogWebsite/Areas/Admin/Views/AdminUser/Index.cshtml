@@ -1,0 +1,95 @@
+﻿@using BlogWebsite.DTO.Common
+@model PagedResult<BlogWebsite.DTO.User.UserDTO>
+
+
+@{
+    Layout = "_Layout";
+
+}
+
+
+<div>
+    <div id="create-user-btn" class="btn">Tạo User</div>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                @*<th>
+                        Id
+                    </th>*@
+                <th>
+                    Tên
+                </th>
+                <th>
+                    Họ
+                </th>
+                <th>
+                    Ngày sinh
+                </th>
+                <th>
+                    Username
+                </th>
+                <th>
+                    Email
+                </th>
+                <th>
+                    Sđt
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Items)
+            {
+
+                <tr class="row-@item.Id">
+                    @*<td>
+                            @Html.DisplayFor(modelItem => item.Id)
+                        </td>*@
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FirstName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.LastName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Dob)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.UserName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Email)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PhoneNumber)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                        @Html.ActionLink("Role", "RoleAssign", "AdminRole", new { id = item.Id }) |
+                        @*@Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })*@
+                        <div class="delete-user-btn btn text-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop" data-id="@item.Id">Delete</div>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<partial name="_DeleteConfirmModal" />
+
+@*@Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })*@
+
+
+
+@section Scripts{
+    <script src="/js/bundle.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            CreateUserModule.GoCreateView();
+            AdminUserModule.DeleteBtn();
+        })
+    </script>
+}
+

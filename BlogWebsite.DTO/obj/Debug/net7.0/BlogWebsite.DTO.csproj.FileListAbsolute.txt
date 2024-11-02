@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.DTO\bin\Debug\net7.0\BlogWebsite.DTO.deps.json
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.DTO\bin\Debug\net7.0\BlogWebsite.DTO.dll
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.DTO\bin\Debug\net7.0\BlogWebsite.DTO.pdb
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.DTO\obj\Debug\net7.0\BlogWebsite.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.DTO\obj\Debug\net7.0\BlogWebsite.DTO.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.DTO\obj\Debug\net7.0\BlogWebsite.DTO.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.DTO\obj\Debug\net7.0\BlogWebsite.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.DTO\obj\Debug\net7.0\BlogWebsite.DTO.dll
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.DTO\obj\Debug\net7.0\refint\BlogWebsite.DTO.dll
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.DTO\obj\Debug\net7.0\BlogWebsite.DTO.pdb
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.DTO\obj\Debug\net7.0\ref\BlogWebsite.DTO.dll
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.DTO\bin\Debug\net7.0\BlogWebsite.Data.dll
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.DTO\bin\Debug\net7.0\BlogWebsite.Data.pdb
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.DTO\obj\Debug\net7.0\BlogWebsite.DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BlogWebsite\BlogWebsite.DTO\obj\Debug\net7.0\BlogWebsite.DTO.csproj.CopyComplete
